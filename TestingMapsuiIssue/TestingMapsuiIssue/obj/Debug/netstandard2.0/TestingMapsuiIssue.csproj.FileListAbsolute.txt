@@ -1,0 +1,13 @@
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\bin\Debug\netstandard2.0\TestingMapsuiIssue.deps.json
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\bin\Debug\netstandard2.0\TestingMapsuiIssue.dll
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\bin\Debug\netstandard2.0\TestingMapsuiIssue.pdb
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\TestingMapsuiIssue.csprojAssemblyReference.cache
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\TestingMapsuiIssue.csproj.CoreCompileInputs.cache
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\TestingMapsuiIssue.AssemblyInfoInputs.cache
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\TestingMapsuiIssue.AssemblyInfo.cs
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\TestingMapsuiIssue.dll
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\TestingMapsuiIssue.pdb
+C:\Users\joaof\source\repos\TestingMapsuiIssue\TestingMapsuiIssue\TestingMapsuiIssue\obj\Debug\netstandard2.0\Views\TestingNavigation.xaml.g.cs
